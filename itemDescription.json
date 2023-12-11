@@ -1,0 +1,37 @@
+[
+    {
+        "src":"./images/coat_woman_1.jpg",
+        "description":"Casual White Coat",
+        "price":"520.00$",
+        "size":["s,xs,M,L,XL"]
+    },
+    {
+        "src":"./images/coat_woman_2.jpg",
+        "description":"Casual Gray Coat",
+        "price":"200.00$",
+        "size":["s,xs,M,L,XL"]
+    },
+    {
+        "src":"./images/coat_woman_3.jpg",
+        "description":"Long Elegant Coat",
+        "price":"250.00$",
+        "size":["s,xs,M,L,XL"]
+    }, {
+        "src":"./images/coat_woman_4.jpg",
+        "description":"Elegant White Coat",
+        "price":"320.00$",
+        "size":["s,xs,M,L,XL"]
+    }, {
+        "src":"./images/coat_woman_5.jpg",
+        "description":"Casual Long Coat",
+        "price":"220.00$",
+        "size":["s,xs,M,L,XL"]
+    },
+    {
+        "src":"./images/coat_woman_6.jpg",
+        "description":"Casual Long Coat",
+        "price":"220.00$",
+        "size":["s,xs,M,L,XL"]
+    }
+]
+   

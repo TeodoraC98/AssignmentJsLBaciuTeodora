@@ -1,0 +1,159 @@
+{  
+"listElements":[
+  {
+  "category":"Woman",
+  "productsList":["Clothing","Shoes","Accessories"],
+   "products":[{
+        "Clothing":[
+        {
+        "name":"Coats",
+        "href":"Woman.html"},
+        {
+          "name":"Jackets",
+          "href":"#"},
+        {
+          "name":"Sweaters",
+          "href":"#"},
+        {
+          "name":"Cardigans",
+         "href":"#"},
+        {
+         "name":"Leather",
+         "href":"#"},
+        {
+          "name":"Dress",
+          "href":"#"},
+       {
+        "name":"Jeans",
+        "href":"#"}
+        ],
+        "Shoes":[{
+        "name":"Skechers",
+        "href":"#"
+        },
+        {
+          "name":"Converse",
+          "href":"#"
+          },
+          {
+            "name":"Boots",
+            "href":"#"
+            }],
+        "Accessories":[{
+        "name":"Belts",
+        "href":"#"        
+        },{
+        "name":"Jewellery",
+        "href":"#"},
+        {
+          "name":"Bags",
+          "href":"#"},
+        {
+            "name":"Sunglasses",
+            "href":"#"}
+      ]
+      
+            
+       }],
+       "src":"./images/woman.jpg"
+},{   
+  "category":"Man",
+  "productsList":["Clothing","Shoes"],
+   "products":[{
+     "Clothing":[
+    {
+        "name":"Coats",
+        "href":"#"},
+        {
+        "name":"Jeans",
+        "href":"#"}
+        ],
+        "Shoes":[{
+          "name":"Shoes",
+          "href":"#"
+        }]
+       
+        
+       }],
+       "src":"./images/man.jpg"
+}, {
+  "category":"Kids",
+  "productsList":["Clothing","Shoes","Accessories"],
+   "products":[{
+     "Clothing":[
+    {
+        "name":"Coats",
+        "href":"#"},
+        {
+          "name":"Dress",
+          "href":"#"},
+       {
+            "name":"Jeans",
+            "href":"#"}
+        ],
+        "Shoes":[{
+          "name":"Shoes",
+          "href":"#"
+        }],
+        "Accessories":[{
+          "name":"Accessories",
+          "href":"#"
+        }]
+            
+       }] , 
+       "src":"./images/newborn.jpg"
+},
+{
+  "category":"Teen girl",
+  "productsList":["Clothing","Shoes","Accessories"],
+   "products":[{
+     "Clothing":[
+    {
+        "name":"Coats",
+        "href":"#"},
+        {
+          "name":"Dress",
+          "href":"#"},
+       {
+            "name":"Jeans",
+            "href":"#"}
+        ],
+        "Shoes":[{
+          "name":"Shoes",
+          "href":"#"
+        }],
+        "Accessories":[{
+          "name":"Accessories",
+          "href":"#"
+        }]
+            
+       }]
+       , "src":"./images/teen_girl.jpg"
+},
+{
+  "category":"Teen boy",
+  "productsList":["Clothing","Shoes","Accessories"],
+   "products":[{
+     "Clothing":[
+    {
+        "name":"Coats",
+        "href":"#"},
+        {
+          "name":"Dress",
+          "href":"#"},
+       {
+            "name":"Jeans",
+            "href":"#"}
+        ],
+        "Shoes":[{
+          "name":"Shoes",
+          "href":"#"
+        }],
+        "Accessories":[{
+          "name":"Accessories",
+          "href":"#"
+        }]
+       }] , 
+       "src":"./images/teen_boy.jpg"
+}
+]}
